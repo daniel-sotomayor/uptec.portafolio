@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+contexto_privado/
+assets/solo_revision/
+*.log
+.DS_Store
+
+
